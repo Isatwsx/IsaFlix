@@ -5,3 +5,14 @@ body {
     font-family: "Playfair Display";
     margim-bottom: 100px;
 }
+
+header {
+    border-bottom: solid 2px rgb(94, 13, 13);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(196, 29, 29);
+}
+
+.chamada {
+    
+}
